@@ -50,9 +50,3 @@ O script gera um dashboard interativo para visualizar os resultados da análise 
 Acesse o dashboard pelo navegador:
 
 http://localhost:8050
-
-5. Demonstração em Vídeo
-<video width="640" height="360" controls>
-  <source src="video\Estudo_Automacao_virus_total_com_dashboard.mp4" type="video/mp4">
-  Seu navegador não suporta vídeos incorporados.
-</video>
