@@ -30,7 +30,7 @@ wget https://raw.githubusercontent.com/rafamatosmarinho/malware-organizer/main/f
 ## Execute o script para extrair os executáveis:
 
 ```bash
-python find_exec.py /home/kali/Downloads/theZoo-master/
+python find_exec.py /home/kali/Downloads/theZoo-master/malware/Binaries/
 ```
 
 3. Execução do Script de Análise
