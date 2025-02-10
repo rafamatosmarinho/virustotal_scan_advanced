@@ -1,2 +1,2 @@
 # virustotal_scan_advanced.
-Projeto poc de automação de envio de arquivos  malware para análise no virustotal e geração de dashboard com resultado da análise feito em pyhton
+Projeto PoC de automação para envio de arquivos maliciosos ao VirusTotal para análise, com geração de dashboard para visualização dos resultados. Desenvolvido em Python.
