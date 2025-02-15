@@ -40,7 +40,7 @@ Configure sua API Key do VirusTotal no script.
 Execute o script de análise:
 
 ```bash
-python seu_script.py
+python virustotal_scan_advanced.py
 ```
 
 4. Dashboard Interativo
